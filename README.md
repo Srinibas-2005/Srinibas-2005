@@ -1,36 +1,56 @@
-# Hi, I'm Srinibas Das
+<h1 align="center">Hi 👋, I'm Srinibas Das</h1>
 
-### Computer Science Student | Software Developer | AI/ML Enthusiast
+<p align="center">
+  <strong>Computer Science Student • Software Developer • AI/ML Enthusiast</strong>
+</p>
 
-I enjoy building practical applications and strengthening my programming skills through hands-on projects. My interests include software development, web technologies, and artificial intelligence.
+<p align="center">
+  Turning ideas into applications, one project at a time.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/srinibas-das-3895a828a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:srinibasbetu11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Srinibas-2005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- **Currently building:** CSE projects and applications using Python, Java, and AI/ML.
-- **Currently learning:** Data Structures & Algorithms, SQL, Git/GitHub, and machine learning.
-- **Open to collaborating on:** Web applications, Python tools, Java projects, and AI/ML solutions.
-- **Seeking guidance in:** System design, software architecture, and production development practices.
-- **Happy to discuss:** Programming, project development, and technology.
-- **Learning approach:** Build, experiment, debug, and improve.
+I'm a **Computer Science student and software developer** who enjoys turning what I learn into things people can use. My interests span **software development, web applications, and AI/ML**, with a focus on understanding how things work and building them step by step.
+
+I learn best by working on projects—writing code, solving problems, and improving with every iteration. I'm developing stronger foundations in **Java, Python, and Data Structures & Algorithms**, while exploring how to build reliable, well-structured applications.
+
+- 🔭 **Building:** Practical projects in software development and AI/ML.
+- 🌱 **Learning:** DSA, SQL, Git/GitHub, and machine learning fundamentals.
+- 🤝 **Open to:** Project collaborations, shared learning, and constructive code reviews.
+- 🎯 **Working toward:** Better problem-solving skills, cleaner code, and thoughtful software design.
+- 💬 **Let's discuss:** Python, Java, CSE projects, and lessons from building.
+- ⚡ **What keeps me curious:** Seeing an idea become a working application.
 
 ---
 
-## Tech Stack
+## 🧰 Technologies & Tools
 
-### Programming Languages
+### 💻 Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### Web Development
+### 🌐 Web Development
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### AI, Machine Learning & Data Analysis
+### 🧠 AI, Machine Learning & Data Analysis
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -38,18 +58,18 @@ I enjoy building practical applications and strengthening my programming skills 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-### Data Visualization
+### 📈 Data Visualization
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### Cloud & Databases
+### ☁️ Cloud & Databases
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
 
-### Development Tools
+### ⚙️ Development Environment
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge)
@@ -57,27 +77,55 @@ I enjoy building practical applications and strengthening my programming skills 
 
 ---
 
-## GitHub Activity
+## 🌱 Current Learning Focus
 
-### Profile Statistics
-
-![Srinibas's GitHub statistics](https://github-readme-stats.shion.dev/api?username=Srinibas-2005&theme=github_dark&hide_border=true&show_icons=true)
-
-### Contribution Streak
-
-![Srinibas's GitHub streak](https://streak-stats.demolab.com/?user=Srinibas-2005&theme=github-dark-blue&hide_border=true)
-
-### Most Used Languages
-
-![Most used languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Srinibas-2005&theme=github_dark&hide_border=true&layout=compact)
+| Area | Focus |
+| :--- | :--- |
+| **Problem Solving** | Practicing DSA and understanding algorithm efficiency |
+| **Software Development** | Writing readable, modular, and maintainable code |
+| **AI & Machine Learning** | Exploring data preparation, model training, and evaluation |
+| **Databases** | Strengthening SQL and database design fundamentals |
+| **Developer Workflow** | Learning version control and collaborative development |
 
 ---
 
-## Connect With Me
+## 📊 GitHub Activity
 
-I'm open to connecting with fellow developers, collaborating on projects, and exchanging ideas.
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Srinibas-2005&theme=github_dark&hide_border=true&show_icons=true" alt="Srinibas's GitHub statistics" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinibas-das-3895a828a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinibasbetu11@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Srinibas_2005)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srinibas_das_11/)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Srinibas-2005&theme=github-dark-blue&hide_border=true" alt="Srinibas's GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Srinibas-2005&theme=github_dark&hide_border=true&layout=compact" alt="Most used languages across GitHub repositories" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+Have a project idea or a shared interest in programming? I'd be happy to exchange ideas, learn together, and explore opportunities to collaborate.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/srinibas-das-3895a828a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:srinibasbetu11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://x.com/Srinibas_2005">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/srinibas_das_11/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Always learning. Always building.</em>
+</p>
