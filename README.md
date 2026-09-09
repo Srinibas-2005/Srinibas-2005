@@ -1,23 +1,53 @@
-<h1 align="center">Hi 👋, I'm Srinibas Das</h1>
+<!-- PROFILE BANNER -->
 
 <p align="center">
-  <strong>Computer Science Student • Software Developer • AI/ML Enthusiast</strong>
+  <img
+    src="./assets/srinibas-banner.png"
+    alt="Srinibas Das — Software Development and AI/ML"
+    width="100%"
+  />
 </p>
 
+<h3 align="center">
+  Computer Science Student · Software Developer · AI/ML Enthusiast
+</h3>
+
 <p align="center">
-  Turning ideas into applications, one project at a time.
+  Exploring ideas through code and building practical solutions.
 </p>
+
+<!-- SOCIAL LINKS -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srinibas-das-3895a828a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/Srinibas-2005?tab=repositories">
+    <img src="https://img.shields.io/badge/My_Projects-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Explore my projects" />
+  </a>
   <a href="mailto:srinibasbetu11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Contact_Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
   </a>
-  <a href="https://github.com/Srinibas-2005">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+</p>
+
+---
+
+## 👨‍💻 A Little About Me
+
+I'm **Srinibas Das**, a Computer Science student who enjoys turning ideas into working applications. My interests include **software development, web technologies, and artificial intelligence**.
+
+For me, projects are a way to understand concepts deeply: break down a problem, build a solution, test it, and make it better. I'm growing my skills in **Java and Python** while strengthening the foundations that help me write clear, reliable code.
+
+### What I'm Working Toward
+
+- **Building with purpose** — Creating practical software and AI/ML projects.
+- **Strengthening fundamentals** — Practicing DSA, SQL, and problem solving.
+- **Developing better habits** — Improving code structure, documentation, and Git workflows.
+- **Learning from others** — Welcoming collaboration, feedback, and code reviews.
+- **Exploring software design** — Learning how applications are organized and maintained.
+
+<p align="center">
+  <strong>Curiosity drives the idea. Practice turns it into code.</strong>
 </p>
 
 ---
