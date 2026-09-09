@@ -2,8 +2,8 @@
 
 <p align="center">
   <img
-    src="./assets/srinibas-banner.png"
-    alt="Srinibas Das — Software Development and AI/ML"
+    src="./srinibas-banner.png"
+    alt="Srinibas Das — Software Developer and AI/ML Enthusiast"
     width="100%"
   />
 </p>
